@@ -21,7 +21,7 @@ function Search() {
   }, []);
 
   return (
-    <div className="card">
+    <div >
       <h3>Search Filter</h3>
       <input
         style={{ width: "30%", height: "25px" }}
